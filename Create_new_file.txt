@@ -1,0 +1,8 @@
+Name   : Create_new_file.txt (contoh)
+isi    : belajar Github, supaya bisa memakainya kedepannya
+commit : 
+- membuat file web.txt
+- desc
+
+bisa memilih commit / branch
+commit new file
