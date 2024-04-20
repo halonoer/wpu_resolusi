@@ -1,0 +1,12 @@
+Cara Memakai Github
+
+Start Project
++ : New Repository
+
+contoh :
+- Repository name : Web a
+- Desc : Repository untuk menyimpan rencana web 
+- public / private
+- initialize this repository with a readme : (menjelaskan repo secara singkat/menyeluruh)
+- create
+
