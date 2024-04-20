@@ -1,2 +1,3 @@
-# wpu_resolusi
-Repository untuk menyimpan rencana WPU kedepannya
+# Selamat data di Github saya semoga bermanfaat
+
+
