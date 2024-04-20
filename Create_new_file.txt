@@ -6,3 +6,23 @@ commit :
 
 bisa memilih commit / branch
 commit new file
+
+bise edit file : edit this file (icon)
+lalu kasih commit lagi, apa yang akan dirubah
+commit change
+
+melihat file yang dirubah 
+file > history = untuk melihat yang telah dibuat / diubah
+
+melihat repo yang dirubah
+repo > commit
+masuk file 
+
+disebelah commit ada angka random yaitu hash
+
+perubahan secara visual di repo > insight > network
+
+git     : memngelola perubahan file didalam folder
+repo    : folder
+commit  : menyimpan file 
+hash    : penanda,  contoh : commit 423e4314r
