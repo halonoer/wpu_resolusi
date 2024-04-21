@@ -1,0 +1,22 @@
+Branch
+- membuat Git Branch 
+- membuat Snapshot tanpa mengganggu jalur utama (Master Branch)
+- Fitur Experimental
+- 2 orang mengerjakan repo yang sama
+
+Merge : menggabungkan branch 
+branch 
+edit
+2 master (utama)/buat baru
+atau
+klik branch
+switch branches / tags
+buat nama branch, contoh : web 1
+klik create branch 
+nanti tampilan sama
+
+lalu bikin file baru
+judul web 1, background
+isi = abc
+commit = membuat background 
+commit new file
