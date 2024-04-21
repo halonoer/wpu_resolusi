@@ -20,3 +20,5 @@ judul web 1, background
 isi = abc
 commit = membuat background 
 commit new file
+
+coba 1
