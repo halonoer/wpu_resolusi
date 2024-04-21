@@ -1,0 +1,4 @@
+merge         = menggabungkan 2 branch
+merge confict = baris yang sama di ubah oleh 2 branch yang berbeda
+pull request  = meminta pemilik repo untuk mengambil perubahan yag telah dilakukan 
+checkoout     = berpindah ke branch / commit yang lain 
