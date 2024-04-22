@@ -1,3 +1,3 @@
-# Selamat datang di Github saya semoga bermanfaat
-saya Muhammad Noer, Mahasiswa
+# Belajar Github & Git
+saya Muhammad Noer, Mahasiswa Semester 6
 
