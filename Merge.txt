@@ -9,3 +9,8 @@ lalu klik compare % pull request
 lalu masuk ke open & pull request
 compare = web 1 (memasukkan ke master branch)
 base = master (master branch) 
+lalu ada ✅ able to merge = untuk mengecek apakah bisa digabung
+Create pull request > ada pesan / komen, contoh : menambahkan 
+
+klik pull requests > klik file untuk melihat > merge pull request > komen > confirm merge > lalu ada tulisan successfully merge
+menghapus branch > branches > delete branch (icon sampah)
