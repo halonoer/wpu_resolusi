@@ -1,0 +1,14 @@
+baris yang sama diubah olleh 2 branch yang berbeda
+
+suatu kejadian dimana terjadi konflik branch 
+- membuat branch 1 dan 2 dengan isi yang berbeda
+- lalu terjadi masalah karena isinya berbeda
+- lalu seperti biasa pull request seperti sebelumnya (merge)
+- ketika ada konflik maka diselesaikan secara manual , Resolve Conflicts (Manual)
+- diarahkan ke kode editor
+- ada = (sema dengan sebagai pembeda editor awal dengan yang terakhir diedit)
+- kalau sudah beres mark as resolved
+- klik commit merge
+- merge pull request
+- confirm merge
+- ketika tidak butuh, maka boleh didelete
